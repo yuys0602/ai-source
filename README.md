@@ -39,6 +39,8 @@
 
 ## Paper
 
+1. [NLP index](https://index.quantumstat.com/)
+
 1. [conference call for paper](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
 
 1. [open review](https://openreview.net/)
@@ -67,6 +69,10 @@
 | [biendata](https://www.biendata.com/) | 国内 |
 | [DC 竞赛](http://www.dcjingsai.com/)  | 国内 |
 |[data fountain](https://www.datafountain.cn)|国内|
+
+## 数据集
+
+[magichub](https://magichub.com/)
 
 
 ## 神经网络
@@ -101,6 +107,12 @@
 
 1. [科学空间](https://spaces.ac.cn/)
 
+1. [Model Zoo](https://modelzoo.co/)
+
+1. [conference list](https://papers.labml.ai/conferences)
+
+1. [可视化 transformer](https://poloclub.github.io/dodrio/)
+
 ## Other
 
 1. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
@@ -112,6 +124,8 @@
 1. [TVM](https://tvm.apache.org/)
 
 1. [AI Bench](https://www.benchcouncil.org/AIBench/index.html)
+
+1. [太极图形 开源渲染](https://taichi.graphics/)
 
 ## 个人总结
 
