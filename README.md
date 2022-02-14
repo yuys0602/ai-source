@@ -69,6 +69,7 @@
 | [biendata](https://www.biendata.com/) | 国内 |
 | [DC 竞赛](http://www.dcjingsai.com/)  | 国内 |
 |[data fountain](https://www.datafountain.cn)|国内|
+|[datacastle](https://www.datacastle.cn/index.html)|国内|
 
 ## 数据集
 
